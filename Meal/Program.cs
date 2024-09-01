@@ -1,6 +1,6 @@
-using Meal.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using XkliburSolutions.Meal.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
